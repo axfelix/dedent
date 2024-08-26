@@ -8,13 +8,13 @@
 		"multi-line string",
 		"es6"
 	],
-	"homepage": "https://github.com/dmnd/dedent",
+	"homepage": "https://github.com/axfelix/dedent",
 	"bugs": {
-		"url": "https://github.com/dmnd/dedent/issues"
+		"url": "https://github.com/axfelix/dedent/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dmnd/dedent"
+		"url": "https://github.com/axfelix/dedent"
 	},
 	"license": "MIT",
 	"author": {
